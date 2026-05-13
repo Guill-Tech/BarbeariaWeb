@@ -1,1 +1,111 @@
+/* img.salão */
 
+position: absolute;
+width: 1559px;
+height: 874px;
+left: -116px;
+top: -42px;
+
+background: url(image.png);
+transform: matrix(-1, 0, 0, 1, 0, 0);
+
+
+/* Degrade */
+
+position: absolute;
+width: 1292px;
+height: 601px;
+left: -6px;
+top: 235px;
+
+background: linear-gradient(180deg, rgba(0, 0, 0, 0) 0%, #1C1C1C 100%);
+
+
+/* backgroundLogin */
+
+position: absolute;
+width: 505px;
+height: 455px;
+left: 387px;
+top: 189px;
+
+background: rgba(16, 7, 5, 0.95);
+border-radius: 56px;
+
+
+/* Senha */
+
+position: absolute;
+width: 144px;
+height: 13px;
+left: 460px;
+top: 375px;
+
+background: #BDBDBD;
+
+
+/* Cadastre-se aqui */
+
+position: absolute;
+width: 144px;
+height: 13px;
+left: 568px;
+top: 594px;
+
+background: #BDBDBD;
+
+
+/* Cadastre-se aqui */
+
+position: absolute;
+width: 144px;
+height: 13px;
+left: 677px;
+top: 473px;
+
+background: #BDBDBD;
+
+
+/* CampoSenha */
+
+position: absolute;
+width: 360.5px;
+height: 69.5px;
+left: 460px;
+top: 396px;
+
+background: #898989;
+
+
+/* CampoE-mail */
+
+position: absolute;
+width: 360.5px;
+height: 69.5px;
+left: 460px;
+top: 296px;
+
+background: #898989;
+
+
+/* e-mail */
+
+position: absolute;
+width: 144px;
+height: 13px;
+left: 460px;
+top: 275px;
+
+background: #BDBDBD;
+
+
+/* ButtonLogin */
+
+position: absolute;
+width: 280px;
+height: 54px;
+left: 500px;
+top: 509px;
+
+background: #454545;
+border-radius: 75px;

@@ -1,1 +1,109 @@
+/* img.background */
+
+position: absolute;
+width: 1280px;
+height: 455px;
+left: 0px;
+top: -112px;
+
+background: url(image.png);
+
+
+/* Degrade */
+
+position: absolute;
+width: 1282px;
+height: 346px;
+left: 0px;
+top: 0px;
+
+background: linear-gradient(180deg, rgba(0, 0, 0, 0) 0%, #1C1C1C 100%);
+
+
+/* Rectangle 1 */
+
+position: absolute;
+width: 1173px;
+height: 317px;
+left: 53px;
+top: 258px;
+
+background: #FFFFFF;
+border-radius: 59px;
+
+
+/* Welcome */
+
+position: absolute;
+width: 486px;
+height: 99px;
+left: 16px;
+top: 58px;
+
+background: #1E1E1E;
+border-radius: 75px;
+
+
+/* cupom desconto */
+
+position: absolute;
+width: 515px;
+height: 166px;
+left: 130px;
+top: 299px;
+
+background: #D9D9D9;
+
+
+/* Tag 2 */
+
+position: absolute;
+width: 228px;
+height: 21px;
+left: 506px;
+top: 511px;
+
+background: #D9D9D9;
+
+
+/* Tag */
+
+position: absolute;
+width: 228px;
+height: 21px;
+left: 130px;
+top: 511px;
+
+background: #D9D9D9;
+
+
+/* Cabelo+Barba */
+
+position: absolute;
+width: 275px;
+height: 188px;
+left: 130px;
+top: 540px;
+
+background: #898989;
+
+
+/* Corte Cabelo */
+
+position: absolute;
+width: 275px;
+height: 188px;
+left: 506px;
+top: 540px;
+
+background: #898989;
+
+
+/* BarraTasks */
+
+position: absolute;
+width: 382px;
+height: 63px;
+left: 449px;
+top: 752px;
 

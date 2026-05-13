@@ -1,1 +1,40 @@
 
+/* Layout automático */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+isolation: isolate;
+
+position: absolute;
+width: 370px;
+height: 381px;
+left: 455px;
+top: 145px;
+
+filter: drop-shadow(0px 10px 60px rgba(0, 0, 0, 0.1));
+border-radius: 13px;
+
+
+/* Rectangle 2 */
+
+position: absolute;
+width: 256px;
+height: 58px;
+left: 512px;
+top: 610px;
+
+background: #D9D9D9;
+border-radius: 100px;
+
+
+/* Rectangle 3 */
+
+position: absolute;
+width: 164px;
+height: 15px;
+left: 558px;
+top: 631px;
+
+background: #727272;
+

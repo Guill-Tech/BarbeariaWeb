@@ -3,7 +3,7 @@
 Protótipo de sistema de agendamento para barbearia desenvolvido no Figma.
 
 ## Funcionalidades
-- Escolha de barbeiro
+- Escolha de serviço
 - Seleção de horário
 - Interface moderna
 - Protótipo navegável
